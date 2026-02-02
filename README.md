@@ -19,36 +19,3 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
 </p>
-
----
-
-## 🚀 Proyectos destacados
-- **CorrelatiApp** — Next.js + GO + GORM + MySQL  
-  🔗 [Repo](https://github.com/titoNeimi/correlatiApp)
-
-- **ChatApp** — App con Next.js + GO + PostgreSQL 
-  🔗 [Repo](https://github.com/titoNeimi/chatApp)
-
-
----
-
-## 🧩 Qué construyo
-- Frontend en **Next.js** (routing, SSR/SSG/ISR, UI)
-- APIs con **Node.js + Express y Go**
-- Bases de datos: **MongoDB**, **MySQL**, **PostgreSQL**
-- Servicios en **Go** cuando suma por simplicidad/performance
-
----
-
-## 🛠️ Stack
-- **Frontend:** Next.js, React
-- **Backend:** Node.js, Express, Go
-- **DB:** MongoDB, MySQL, PostgreSQL
-- **Infra:** Docker, Linux
-
----
-
-## 📌 Contacto
-- [LinkedIn](https://www.linkedin.com/in/joaquin-nahmod/)
-<!-- - Portfolio:    -->
-- Joaquinnahmod@gmail.com
